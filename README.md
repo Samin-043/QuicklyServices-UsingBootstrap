@@ -1,6 +1,7 @@
 # QuicklyServicesWebsite
 
-Here HTML used as a markup labguages and CSS used to style the webpages.Also a responsive design too.This project helps me a lot of to idea about responsive design.
+Here HTML is used as a markup language and CSS is used to style the web pages. I also implemented responsive design too. This project helps me with many ideas about responsive design. Here I design the home page, restaurant page, and retail page.
+ 
 
 Languages : HTML, CSS
 Framework : Bootstrap
