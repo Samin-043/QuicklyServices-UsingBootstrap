@@ -180,8 +180,6 @@ dropdown-menu ul a {
 }
 
 
-
-
 .retail-section-five .row h3 {
     font-weight: normal;
     margin-top: 20px;
@@ -191,9 +189,6 @@ dropdown-menu ul a {
     font-weight: normal;
     margin-top: 20px;
 }
-
-
-
 
 
 .section-six {
@@ -539,20 +534,18 @@ dropdown-menu ul a {
 }
 
 
-
-
-
 .product-box {
     box-shadow: 0 4px 25px #f1f2f3;
     border-radius: 2px;
     background-color: #f1f1ff;
+    margin: auto;
     margin-top: 1rem;
-    margin: 1rem;
-    min-height: 200px;
-    min-width: 100px;
 }
 
-
+.featureImageIcon{
+    max-height: 36px;
+    max-width: 36px;
+}
 
 
 
@@ -1370,14 +1363,19 @@ dropdown-menu ul a {
 .carousel-inner {
     width: 100%;
 
-
 }
 
 
 .block-section {
     box-shadow: 0 0 0.20rem #888;
-    border-radius: 3px;
-    min-width: 100px;
+    max-width: 160px;
+    margin: auto;
+    margin-top: 1rem;
+}   
+
+.fontStandard{
+    font-size: 1rem;
+    font-weight: 300 !important;
 }
 
 
@@ -1699,8 +1697,6 @@ dropdown-menu ul a {
 }
 
 
-
-
 .custom-section-first{
     min-height: 210px;
 }
@@ -1711,10 +1707,6 @@ dropdown-menu ul a {
 
 
 
-
-
-
-
 @media (min-width:1024px){
     .section-eight .custom-section
     {
@@ -1722,13 +1714,5 @@ dropdown-menu ul a {
         margin-right: 4rem;
     }
 }
-
-
-
-
-
-
-
-
 
 
