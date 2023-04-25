@@ -7,10 +7,7 @@ Framework : Bootstrap
 Project Demo - https://samin-043.github.io/QuicklyServicesWebsite/
 
 ## Home Page :
-
-![QicklyhomePage](https://user-images.githubusercontent.com/48744887/227030590-37ba3756-722a-477a-875e-0e59e4007476.png)
-
-
+![HomePage](https://user-images.githubusercontent.com/48744887/234430859-8ba01162-58cd-45c2-9cd9-ae7d45cc9592.png)
 
 
 
@@ -19,7 +16,7 @@ Project Demo - https://samin-043.github.io/QuicklyServicesWebsite/
 
 
 ## ResturantPage : 
-![ResturantPage](https://user-images.githubusercontent.com/48744887/227031028-82ccb163-bff3-463c-852e-dce838e53126.png)
+![Resturant Page](https://user-images.githubusercontent.com/48744887/234430879-c915a508-8545-4a92-9f6e-41f8841d07de.png)
 
 
 
@@ -31,4 +28,4 @@ Project Demo - https://samin-043.github.io/QuicklyServicesWebsite/
 
 
 ## RetailsPage:
-![RetailsPage](https://user-images.githubusercontent.com/48744887/227031354-f8dd81ad-75b5-4fd2-9f01-d5ea5d13a2f4.png)
+![Retail Page](https://user-images.githubusercontent.com/48744887/234430919-b74fd201-5408-4665-8194-41151f731e64.png)
