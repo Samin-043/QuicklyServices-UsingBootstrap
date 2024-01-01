@@ -7,7 +7,8 @@ Framework : Bootstrap
 Project Demo - https://samin-043.github.io/QuicklyServicesWebsite/
 
 ## Home Page :
-![HomePage](![image](https://github.com/Samin-043/QuicklyServicesWebsite/assets/48744887/2c2f60ec-dded-49ed-ae02-3b2ca1c82bc4))
+
+![screencapture-samin-043-github-io-QuicklyServicesWebsite-index-html-2024-01-01-17_26_32](https://github.com/Samin-043/QuicklyServicesWebsite/assets/48744887/96da962d-eb77-4e66-9d6c-85e79f5b40ee)
 
 
 
