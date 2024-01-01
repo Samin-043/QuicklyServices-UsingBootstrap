@@ -29,4 +29,5 @@ Project Demo - https://samin-043.github.io/QuicklyServicesWebsite/
 
 
 ## RetailsPage:
-![Retail Page](https://user-images.githubusercontent.com/48744887/234430919-b74fd201-5408-4665-8194-41151f731e64.png)
+![screencapture-samin-043-github-io-QuicklyServicesWebsite-Retails-html-2024-01-01-18_18_37](https://github.com/Samin-043/QuicklyServicesWebsite/assets/48744887/be677881-b4be-45bf-b087-18658236e6e1)
+
