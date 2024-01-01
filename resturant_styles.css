@@ -1351,3 +1351,13 @@ dropdown-menu ul a{
     }
 }
 
+
+.nav-link.dropdown-toggle.custom-button-one {
+    color: #e0e4e4;
+}
+
+
+.nav-link.dropdown-toggle.custom-button-one:hover {
+    color: #e0e4e4;
+}
+
