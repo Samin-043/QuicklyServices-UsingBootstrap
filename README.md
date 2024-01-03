@@ -8,8 +8,7 @@ Project Demo - https://samin-043.github.io/QuicklyServicesWebsite/
 
 ## Home Page :
 
-![screencapture-samin-043-github-io-QuicklyServicesWebsite-index-html-2024-01-01-17_26_32](https://github.com/Samin-043/QuicklyServicesWebsite/assets/48744887/96da962d-eb77-4e66-9d6c-85e79f5b40ee)
-
+![screencapture-samin-043-github-io-QuicklyServicesWebsite-index-html-2024-01-01-17_26_32](https://github.com/Samin-043/QuicklyServicesWebsite/assets/48744887/97ea54d2-424c-4ea3-af28-e32d19bcac3c)
 
 
 
