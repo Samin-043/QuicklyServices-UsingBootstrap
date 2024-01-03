@@ -1,10 +1,13 @@
 # QuicklyServicesWebsite
 
-It is a responsive website design that supports in cross platform section. This project helps me with many ideas about responsive design. Here I design the home page, restaurant page, and retail page.
- 
+## Description
+It is a responsive website design that supports in cross platform section. This project helps me with many ideas about responsive design. Here I worked with these pages like - home page, restaurant page, retail page and 404 not found page.
+## Technologies
 Languages : HTML, CSS
 Framework : Bootstrap
-Project Demo - https://samin-043.github.io/QuicklyServicesWebsite/
+## Project Demo(Live project link) - 
+https://samin-043.github.io/QuicklyServicesWebsite/
+
 
 ## Home Page :
 ![screencapture-samin-043-github-io-QuicklyServicesWebsite-index-html-2024-01-01-17_26_32](https://github.com/Samin-043/QuicklyServicesWebsite/assets/48744887/00daa5b4-2c96-4e03-b552-dc3e357bd3e3)
