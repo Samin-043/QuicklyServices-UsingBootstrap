@@ -16,7 +16,8 @@ Project Demo - https://samin-043.github.io/QuicklyServicesWebsite/
 
 
 ## ResturantPage : 
-![Resturant Page](https://user-images.githubusercontent.com/48744887/234430879-c915a508-8545-4a92-9f6e-41f8841d07de.png)
+
+![screencapture-samin-043-github-io-QuicklyServicesWebsite-resturant-html-2024-01-03-11_43_12](https://github.com/Samin-043/QuicklyServicesWebsite/assets/48744887/813e582e-a9a8-41c0-89cb-0f45199ce109)
 
 
 
